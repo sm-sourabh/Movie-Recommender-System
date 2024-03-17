@@ -1,4 +1,4 @@
-## Movie Recommender System
+### Movie Recommender System
 
 This project showcases a Movie Recommender System developed during the Virtual Bharat Intern Program. It leverages collaborative filtering techniques to provide personalized movie recommendations to users based on their preferences. The recommendation engine is seamlessly integrated into a dynamic streamlit app, offering a user-friendly interface for exploring tailored movie suggestions.
 
